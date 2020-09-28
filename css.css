@@ -1,0 +1,148 @@
+.a {
+	font-family: Brush Script MT;
+	font-weight: bold;
+	font-size: 50px;
+	color: #FF7800
+}
+.b {
+	background-color: #2A3987;
+	position: absolute;
+    top: 20px;
+    left: 50px;
+    width: 400px;
+    height: 100px;
+    border: none;
+    opacity: 0.7;
+    font-family: Brush Script MT;
+	font-size: 40px;
+	color: #B9FFED;
+}
+.c {
+	background-color: #0028FF;
+    position: absolute;
+    top: 35px;
+    left: 60px;
+	width: 80px;
+	height: 80px;
+	border-radius: 100px;
+	color: #FF7800;
+	font-family: Brush Script MT;
+	font-size: 30px;
+}
+.d {
+	background-color: #0028FF;
+    position: absolute;
+    top: 35px;
+    left: 360px;
+	width: 80px;
+	height: 80px;
+	border-radius: 100px;
+	color: #FF7800;
+	font-family: Brush Script MT;
+	font-size: 30px;
+}
+.e {
+    background-color: #FF8700;
+    position: absolute;
+    top: 500px;
+    left: 264.4px;
+    border-radius: 100px;
+	color: #17006E;
+	font-family: Brush Script MT;
+	font-size: 30px;
+    width: 100px;
+    height: 100px;
+}
+.f {
+    background-color: #FF8700;
+    position: absolute;
+    top: 500px;
+    left: 464.4px;
+    border-radius: 100px;
+	color: #17006E;
+	font-family: Brush Script MT;
+	font-size: 30px;
+	width: 100px;
+    height: 100px;
+}
+.g {
+    background-color: #FF8700;
+    position: absolute;
+    top: 500px;
+    left: 664.4px;
+    border-radius: 100px;
+	color: #17006E;
+	font-family: Brush Script MT;
+	font-size: 30px;
+	width: 100px;
+    height: 100px;
+}
+.h {
+    background-color: #FF8700;
+    position: absolute;
+    top: 500px;
+    left: 864.4px;
+    border-radius: 100px;
+	color: #17006E;
+	font-family: Brush Script MT;
+	font-size: 30px;
+	width: 100px;
+    height: 100px;
+}
+.i {
+    background-color: #FF8700;
+    position: absolute;
+    top: 500px;
+    left: 1064.4px;
+    border-radius: 100px;
+	color: #17006E;
+	font-family: Brush Script MT;
+	font-size: 30px;
+	width: 100px;
+    height: 100px;
+}
+.j {
+    background-color: #FF8700;
+    position: absolute;
+    top: 500px;
+    left: 264.4px;
+    border-radius: 100px;
+	width: 50px;
+    height: 50px;
+}
+.k {
+    background-color: #FF8700;
+    position: absolute;
+    top: 500px;
+    left: 464.4px;
+    border-radius: 100px;
+	width: 50px;
+    height: 50px;
+}
+.l {
+    background-color: #FF8700;
+    position: absolute;
+    top: 500px;
+    left: 664.4px;
+    border-radius: 100px;
+	width: 50px;
+    height: 50px;
+}
+.m {
+    background-color: #FF8700;
+    position: absolute;
+    top: 500px;
+    left: 864.4px;
+    border-radius: 100px;
+	width: 50px;
+    height: 50px;
+}
+.n {
+    background-color: #FF8700;
+    position: absolute;
+    top: 500px;
+    left: 1064.4px;
+    border-radius: 100px;
+	width: 50px;
+    height: 50px;
+}
