@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Actividad 1</title>
+</head>
+<body background="1.jpg">
+<link rel="stylesheet" type="text/css" href="css.css">
+<center><h1 class="a">A C T I V I D A D</h1></center>
+<div class="b"><center>volumen</center></div>
+<button onclick="a()" class="c">Subir</button>
+<button onclick="b()" class="d">Bajar</button>
+<div><button onclick="c.play()" class="e">1</button></div>
+<div><button onclick="d.play()" class="f">2</button></div>
+<div><button onclick="e.play()" class="g">3</button></div>
+<div><button onclick="f.play()" class="h">4</button></div>
+<div><button onclick="g.play()" class="i">5</button></div>
+<img src="2.png" class="j" onclick="c.pause()">
+<img src="2.png" class="k" onclick="d.pause()">
+<img src="2.png" class="l" onclick="e.pause()">
+<img src="2.png" class="m" onclick="f.pause()">
+<img src="2.png" class="n" onclick="g.pause()">
+<script>
+var c = new Audio();
+c.src="1.m4a";
+c.play();
+c.loop = true;
+var d = new Audio();
+d.src="2.m4a";
+d.play();
+d.loop = true;
+var e = new Audio();
+e.src="3.m4a";
+e.play();
+e.loop = true;
+var f = new Audio();
+f.src="4.m4a";
+f.play();
+f.loop = true;
+var g = new Audio();
+g.src="5.m4a";
+g.play();
+g.loop = true;
+function a(){
+	c.volume += .1; 
+	d.volume += .1; 
+	e.volume += .1; 
+	f.volume += .1; 
+	g.volume += .1;
+}
+
+function b(){
+	c.volume -= .1;
+	d.volume -= .1;
+	e.volume -= .1;
+	f.volume -= .1;
+	g.volume -= .1;
+}
+</script>
+</body>
+</html>
